@@ -1,0 +1,70 @@
+{
+    "model": [
+        {
+            "title": "Tranquil Forest",
+            "subtitle": "A peaceful stream in the woods",
+            "imageURL": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+        },
+        {
+            "title": "Mountain River",
+            "subtitle": "Flowing water between rocks",
+            "imageURL": "https://images.unsplash.com/photo-1505678261036-a3fcc5e884ee"
+        },
+        {
+            "title": "Misty Woods",
+            "subtitle": "Fog over a dense forest",
+            "imageURL": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c"
+        },
+        {
+            "title": "Nature Trail",
+            "subtitle": "Path through a vibrant forest",
+            "imageURL": "https://images.unsplash.com/photo-1502082553048-f009c37129b9"
+        },
+        {
+            "title": "Rocky Stream",
+            "subtitle": "Water flowing over mossy rocks",
+            "imageURL": "https://images.unsplash.com/photo-1523978591478-c753949ff840"
+        },
+        {
+            "title": "Forest Stream",
+            "subtitle": "Flowing water in a lush forest",
+            "imageURL": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+        },
+        {
+            "title": "Sunrise Woods",
+            "subtitle": "Golden morning light through trees",
+            "imageURL": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+        },
+        {
+            "title": "Snowy Forest",
+            "subtitle": "Winter scene with snow-covered trees",
+            "imageURL": "https://images.unsplash.com/photo-1519682337058-a94d519337bc"
+        },
+        {
+            "title": "Waterfall",
+            "subtitle": "Gentle falls deep in nature",
+            "imageURL": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+        },
+        {
+            "title": "Autumn Forest",
+            "subtitle": "Leaves changing colors in fall",
+            "imageURL": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+        },
+        {
+            "title": "Pine Trees",
+            "subtitle": "Tall pines in the sunlight",
+            "imageURL": "https://images.unsplash.com/photo-1500835556837-99ac94a94552"
+        },
+        {
+            "title": "Foggy Path",
+            "subtitle": "A trail disappearing into the mist",
+            "imageURL": "https://images.unsplash.com/photo-1446034295857-c39f8844fad4"
+        },
+        {
+            "title": "Creek Rocks",
+            "subtitle": "Water bubbling over mossy stones",
+            "imageURL": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07"
+        }
+    ]
+}
+
